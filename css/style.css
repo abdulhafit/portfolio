@@ -2,8 +2,12 @@ body {
     font-family: 'Lato', sans-serif;
     color: #747704;
     font-weight: 300;   
-}
 
+}
+img-resize{
+    width: 500px;
+    height: 300px;
+}
 .text-muted{
     color: #BCBBBB;
 }
@@ -25,5 +29,13 @@ hr{
   border-width: 5px;
 }
 .container{
-	width: 100%;
+	width: 90%;
+}
+
+p{
+	font-size: 1.3em;
+}
+#dedication{
+    color: #660099;
+    font-weight: bold;
 }
